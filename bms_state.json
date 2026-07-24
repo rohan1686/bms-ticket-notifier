@@ -1,22 +1,5 @@
 {
-  "shows": {
-    "ALUC|3321|20260724|PLATINUM": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "04:20 PM",
-      "date": "20260724",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "0"
-    },
-    "ALUC|3321|20260724|GOLD": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "04:20 PM",
-      "date": "20260724",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "2"
-    }
-  },
+  "shows": {},
   "dates": {
     "20260724": "BOOKABLE",
     "20260725": "AVAILABLE",
