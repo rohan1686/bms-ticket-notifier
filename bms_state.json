@@ -1,25 +1,56 @@
 {
   "shows": {
-    "ALUC|3531|20260803|PLATINUM": {
+    "ALUC|3543|20260804|PLATINUM": {
       "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:20 PM",
-      "date": "20260803",
+      "time": "04:40 PM",
+      "date": "20260804",
       "cat": "PLATINUM",
       "price": "350.00",
       "status": "0"
     },
-    "ALUC|3531|20260803|GOLD": {
+    "ALUC|3543|20260804|GOLD": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "04:40 PM",
+      "date": "20260804",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
+    },
+    "ALUC|3544|20260804|PLATINUM": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "08:00 PM",
+      "date": "20260804",
+      "cat": "PLATINUM",
+      "price": "350.00",
+      "status": "0"
+    },
+    "ALUC|3544|20260804|GOLD": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "08:00 PM",
+      "date": "20260804",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "2"
+    },
+    "ALUC|3545|20260804|PLATINUM": {
       "venue": "ALLU Cinemas: Kokapet",
       "time": "11:20 PM",
-      "date": "20260803",
+      "date": "20260804",
+      "cat": "PLATINUM",
+      "price": "350.00",
+      "status": "0"
+    },
+    "ALUC|3545|20260804|GOLD": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "11:20 PM",
+      "date": "20260804",
       "cat": "GOLD",
       "price": "295.00",
       "status": "3"
     }
   },
   "dates": {
-    "20260803": "BOOKABLE",
-    "20260804": "AVAILABLE",
+    "20260804": "BOOKABLE",
     "20260805": "AVAILABLE",
     "20260806": "AVAILABLE",
     "20260808": "AVAILABLE",
